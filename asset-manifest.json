@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aakash/static/css/main.9d269ec7.css",
+    "main.js": "/aakash/static/js/main.9c25cf01.js",
+    "index.html": "/aakash/index.html",
+    "main.9d269ec7.css.map": "/aakash/static/css/main.9d269ec7.css.map",
+    "main.9c25cf01.js.map": "/aakash/static/js/main.9c25cf01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d269ec7.css",
+    "static/js/main.9c25cf01.js"
+  ]
+}
