@@ -1,0 +1,17 @@
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+li{
+    margin: 10px 40px;
+    font-size: 30px;
+
+
+}
+.one{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
